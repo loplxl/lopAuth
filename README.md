@@ -1,9 +1,8 @@
 # lopAuth
 <h1>an offline authenticator app with a sleek design</h1>
 
-<h1>DISCLAIMER:</h1>
 <div>
-  <h1>This was compiled in PyInstaller, which is known to have false positives due to people making malware is PyInstaller.</h1>
+  <h1> ⚠️⚠️⚠️⚠️⚠️ This was compiled in PyInstaller, which is known to have false positives due to people making malware is PyInstaller.</h1>
 </div>
 
 <h2>Features:</h2>
