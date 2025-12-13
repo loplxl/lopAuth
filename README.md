@@ -1,5 +1,5 @@
 # lopAuth
-an offline authenticator app with a sleek design
+<h1>an offline authenticator app with a sleek design<h1>
 
 
 click to copy codes, add 2FA codes with a QR code screenshot, or add it manually
