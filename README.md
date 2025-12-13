@@ -24,4 +24,6 @@
   <p><strong>Add a secret:</strong> To add a secret, take a screenshot of the QR code into your clipboard, or manually enter the details of the 2FA code.</p>
 </div>
 <br>
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/0ba2acbd-cc69-4cfc-8fcc-1c9902f2fefe" />
+<h3 align="center">
+  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/0ba2acbd-cc69-4cfc-8fcc-1c9902f2fefe" />
+</h3>
