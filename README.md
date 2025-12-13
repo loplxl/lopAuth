@@ -8,11 +8,8 @@
   <br>
 </h1>
 <div align = "center">
-  <h1> ⚠️⚠️⚠️ <br><br>This was compiled in PyInstaller, which is known to have false positives due to people making malware is PyInstaller.<br><br></h1>
-</div>
-
-<h2 align = "center">Features:</h2>
-<div>
+  <h1> ⚠️⚠️⚠️ <br><br>This was compiled in PyInstaller, which is known to have false positives due to people making malware is PyInstaller.<br><br>
+  Features:</h1>
   <p><strong>Settings:</strong> Allows for customising the appearance of the app.</p>
   <p><strong>Add Secret:</strong> Allows you to add a 2FA code to the menu either through a QR code or manually entering details.</p>
   <p><strong>Timer:</strong> Timer for when the codes reset in the title of the window.</p>
