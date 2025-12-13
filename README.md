@@ -1,8 +1,11 @@
 <h1 align="center">
   lopAuth <br><br>
-  a secure, offline authenticator app<br><br>
-  <a href="https://github.com/loplxl/lopAuth/releases/latest"><img src="https://img.shields.io/github/v/release/loplxl/lopAuth?colorA=363a4f&colorB=a6da95&style=for-the-badge&logo=github&logoColor=cad3f5">
-    <br><br>
+  a secure, offline authenticator app<br>
+  <a href="https://github.com/loplxl/lopAuth/releases/latest">
+    <img src="https://img.shields.io/github/v/release/loplxl/lopAuth?color=%23a6e3a1" alt="GitHub Release">
+  </a>
+
+  <br>
 </h1>
 <div align = "center">
   <h1> ⚠️⚠️⚠️ <br><br>This was compiled in PyInstaller, which is known to have false positives due to people making malware is PyInstaller.<br><br></h1>
