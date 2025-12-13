@@ -1,6 +1,10 @@
 # lopAuth
 <h1>an offline authenticator app with a sleek design</h1>
-
+<h2>Features:</h2>
+<div>
+  <p><strong>Settings:</strong> Allows for customising the appearance of the app.</p>
+  <p><strong>Add Secret:</strong> Allows you to add a 2FA code to the menu either through a QR code or manually entering details.</p>
+</div>
 
 <h2>Controls:</h2>
 <div>
