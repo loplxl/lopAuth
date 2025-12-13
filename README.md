@@ -1,5 +1,7 @@
 # lopAuth
 <h1>an offline authenticator app with a sleek design</h1>
+
+
 <div>
 <h2>Controls:</h2>
 <p>Left Click: Copy the selected code
