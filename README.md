@@ -3,7 +3,7 @@
 
 
 <div>
-<h2>Controls:</h2><p>Left Click: Copy the selected code
-Double middle click: permanently delete the selected 2FA (irreversible)</p>
+<h2>Controls:<p>Left Click: Copy the selected code
+Double middle click: permanently delete the selected 2FA (irreversible)</p></h2>
 </div>
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/0ba2acbd-cc69-4cfc-8fcc-1c9902f2fefe" />
